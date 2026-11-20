@@ -3,7 +3,7 @@ game 'gta5'
 
 description 'forge-radialmenu'
 repository 'https://github.com/Qbox-project/forge-radialmenu'
-version '0.1.0'
+version '0.1.2'
 dependency 'pr_bridge'
 
 
